@@ -1,0 +1,278 @@
+.grille
+{
+background-repeat:repeat;
+background-image:url("misc/grille.png");
+margin:0px;
+padding-bottom:10px;
+}
+
+.logo
+{
+height:100%;
+padding-right:20px;
+}
+
+.milieu
+{
+text-align:center;
+font-style:italic;
+font-family: 'Droid Sans', arial;
+padding:20px;
+font-size:1em;
+}
+
+/*font*/
+
+.oswald
+{
+font-family: 'Oswald';
+}
+
+.droidsans
+{
+font-family: 'Droid Sans', arial;
+}
+
+.droidserif
+{
+font-family: 'Droid Serif';
+}
+
+.minuscule
+{
+font-size: 0.8em;
+}
+
+.menu
+{
+position: static;
+margin-left: auto;
+margin-right: auto;
+display:inline-block;
+text-align:left;
+}
+
+li
+{
+padding:5px;
+list-style-type:none;
+}
+
+/*couleur*/
+
+.orange
+{
+background-color:#F76900;
+}
+
+.jaune
+{
+background-color:#FCD04A;
+}
+
+.vert
+{
+background-color:#B9D482;
+}
+
+.bleu
+{
+background-color:#3D92C2;
+}
+
+.violet
+{
+background-color:#C078D0;
+}
+
+.textgray
+{
+color:gray;
+}
+
+textorange
+{
+color:#E77927;
+}
+
+.présenter
+{
+display:inline-block;
+width:200px;
+text-align:left;
+}
+
+.bordure
+{
+border:1px solid #CCCCCC;
+}
+
+présenter.img {
+  width: 100%;
+  height: auto;
+}
+
+.padtop
+{
+padding-top:10px;
+}
+
+.padbottom
+{
+padding-bottom:10px;
+}
+
+.motorange
+{
+font-size:1.5em;
+color:#E77927;
+font-family: 'Oswald';
+}
+
+.top
+{
+vertical-align: top;
+}
+
+.date
+{
+font-size:0.8em;
+color:gray;
+font-family:'Droid Serif';
+font-style: italic;
+}
+
+.padleft
+{
+padding-left:10px;
+}
+
+.textprésenter
+{
+font-family: 'Droid Sans', arial;
+color:gray;
+}
+
+.lireplus
+{
+font-style:italic;
+color:gray;
+font-size:0.9em;
+}
+
+.inlineblock
+{
+display:inline-block;
+}
+
+.top
+{
+position: relative;
+top:0px;
+}
+
+.galerie
+{
+display:flex;
+}
+
+.imgs
+{
+padding:10px;
+border:1px solid #CCCCCC;
+box-shadow: 1px 1px gray;
+}
+
+.padd
+{
+padding:5px;
+}
+
+.foot
+{
+position: static;
+margin-left: auto;
+margin-right: auto;
+display:inline-block;
+text-align:left;
+vertical-align: top;
+}
+
+.footpad
+{
+padding-bottom:5px;
+padding-top:5px;
+}
+
+.icone1
+{
+background-image:url("misc/accueil_icone.png");
+background-repeat: no-repeat;
+margin:0px;
+}
+
+.icone2
+{
+background-image:url("misc/telephone_icone.png");
+background-repeat: no-repeat;
+margin:0px;
+}
+
+.icone3
+{
+background-image:url("misc/mail_icone.png");
+background-repeat: no-repeat;
+margin:0px;
+}
+
+.icone4
+{
+background-image:url("misc/aide_icone.png");
+background-repeat: no-repeat;
+margin:0px;
+}
+
+
+.paddingleft
+{
+padding-left:25px;
+}
+
+.petit
+{
+font-size:0.9em;
+}
+
+.footwidth
+{
+width:120px;
+}
+
+.padfoot
+{
+padding-left:50px;
+padding-right:50px;
+}
+
+.bastext
+{
+font-size:0.6em;
+color:gray;
+}
+
+.baspad
+{
+padding:2px;
+}
+
+.droite
+{
+float: right;
+}
+
+.centrer{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
+}
