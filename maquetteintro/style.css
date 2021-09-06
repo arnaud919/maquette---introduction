@@ -165,7 +165,7 @@ font-size:0.9em;
 display:inline-block;
 }
 
-top
+.top
 {
 position: relative;
 top:0px;
@@ -238,11 +238,6 @@ margin:0px;
 padding-left:25px;
 }
 
-.baspad
-{
-padding:
-}
-
 .petit
 {
 font-size:0.9em;
@@ -273,4 +268,11 @@ padding:2px;
 .droite
 {
 float: right;
+}
+
+.centrer{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
 }
